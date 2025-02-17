@@ -1,0 +1,7 @@
+"# Exercise 8 Report" 
+"Bu raporda yaplan tm Git iŸlemleri detayl olarak anlatlmaktadr." 
+"- Yeni repository oluŸturuldu." 
+"- Commit ve push iŸlemleri yapld." 
+"- Yeni branch oluŸturuldu ve merge edildi." 
+"- Merge conflict oluŸturuldu ve ‡”zld." 
+"- Son de§iŸiklikler GitHub'a g”nderildi." 
